@@ -1,0 +1,10 @@
+TAX INVOICE
+Invoice No - INV-2025-43994
+Invoice Date - 23/07/2026
+Supplier - Marina Tech Solutions LLC
+Supplier TRN - 13788762328601
+Customer : Palm Retail Group LLC
+Subtotal (AED):  27,300.00
+VAT 5% (AED): 682.50
+Total (AED): 27,982.50
+Thank you for your business.

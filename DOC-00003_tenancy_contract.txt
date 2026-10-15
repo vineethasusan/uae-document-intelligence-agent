@@ -1,0 +1,10 @@
+TENANCY  CONTRACT  عقد إيجار
+Ejari No / رقم إيجاري: 20266588125533
+Landlord / المؤجر - Omar Khalid
+Tenant / المستأجر : Emirates Fresh Foods LLC
+Property / العقار: Unit 1342, Al Nahda, Dubai
+Contract Start / تاريخ البداية:  19/12/2025
+Contract End / تاريخ النهاية - 18/12/2026
+Annual Rent (AED) / الإيجار السنوي:  180,000.00
+No. of Cheques / عدد الشيكات:  1
+يخضع هذا العقد لأنظمة دائرة الأراضي والأملاك

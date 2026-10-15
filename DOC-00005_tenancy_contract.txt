@@ -1,0 +1,10 @@
+TENANCY CONTRACT  عقد إيجار
+Ejari No / رقم إيجاري : 20267736233416
+Landlord / المؤجر:  Omar Khalid
+Tenant / المستأجر:  Priya Nair
+Property / العقار: Unit 3324, Al Barsha, Dubai
+Contract Start / تاريخ البداية:  09/06/2026
+Contract End / تاريخ النهاية : 08/06/2027
+Annual Rent (AED) / الإيجار السنوي - 62,007.00
+No. of Cheques / عدد الشيكات:  6
+يخضع هذا العقد لأنظمة دائرة الأراضي والأملاك

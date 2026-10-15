@@ -1,0 +1,10 @@
+TAX INVOICE  فاتورة ضريبية
+Invoice No / رقم الفاتورة : INV-2024-15792
+Invoice Date / تاريخ الفاتورة: 16/07/2026
+Supplier / المورد:  Palm Retail Group LLC
+Supplier TRN / الرقم الضريبي للمورد:  10695848304011
+Customer / العميل:  Sahara Build Contracting LLC
+Subtotal (AED) / المجموع قبل الضريبة : 11,270.00
+VAT 5% (AED) / ضريبة القيمة المضافة ٥٪ - 563.50
+Total (AED) / الإجمالي - 11,833.50
+شكراً لتعاملكم معنا
